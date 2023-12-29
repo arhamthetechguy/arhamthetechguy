@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **arhamthetechguy@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1TStDDGqvXhnDDN3Wzi5oT0hpGUefP70s](https://drive.google.com/drive/u/0/folders/1TStDDGqvXhnDDN3Wzi5oT0hpGUefP70s)
+- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1TStDDGqvXhnDDN3Wzi5oT0hpGUefP70s](https://developergafur.com/about/)
 
 - ⚡ Fun fact **Friendly**
 
