@@ -12,15 +12,15 @@
 
 - 🤝 I’m looking for help with **Front End Project**
 
-- 👨‍💻 All of my projects are available at [https://developergafur.com](https://developergafur.com)
+- 👨‍💻 All of my projects are available at [https://agarham.com](https://agarham.com)
 
-- 📝 I regularly write articles on [https://developergafur.com/blog/](https://developergafur.com/blog/)
+- 📝 I regularly write articles on [https://agarham.com/blog/](https://agarham.com/blog/)
 
 - 💬 Ask me about **JS, Php, Python, vuejs, React, MongoDB**
 
 - 📫 How to reach me **arhamthetechguy@gmail.com**
 
-- 📄 Know about my experiences [https://developergafur.com/about/](https://developergafur.com/about/)
+- 📄 Know about my experiences [https://agarham.com/about/](https://agarham.com/about/)
 
 - ⚡ Fun fact **Friendly**
 
